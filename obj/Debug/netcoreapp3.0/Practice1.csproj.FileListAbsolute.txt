@@ -1,0 +1,11 @@
+/Users/emanuelmeza/Projects/Practice1/Practice1/obj/Debug/netcoreapp3.0/Practice1.csprojAssemblyReference.cache
+/Users/emanuelmeza/Projects/Practice1/Practice1/obj/Debug/netcoreapp3.0/Practice1.AssemblyInfoInputs.cache
+/Users/emanuelmeza/Projects/Practice1/Practice1/obj/Debug/netcoreapp3.0/Practice1.AssemblyInfo.cs
+/Users/emanuelmeza/Projects/Practice1/Practice1/bin/Debug/netcoreapp3.0/Practice1
+/Users/emanuelmeza/Projects/Practice1/Practice1/bin/Debug/netcoreapp3.0/Practice1.deps.json
+/Users/emanuelmeza/Projects/Practice1/Practice1/bin/Debug/netcoreapp3.0/Practice1.runtimeconfig.json
+/Users/emanuelmeza/Projects/Practice1/Practice1/bin/Debug/netcoreapp3.0/Practice1.runtimeconfig.dev.json
+/Users/emanuelmeza/Projects/Practice1/Practice1/bin/Debug/netcoreapp3.0/Practice1.dll
+/Users/emanuelmeza/Projects/Practice1/Practice1/bin/Debug/netcoreapp3.0/Practice1.pdb
+/Users/emanuelmeza/Projects/Practice1/Practice1/obj/Debug/netcoreapp3.0/Practice1.dll
+/Users/emanuelmeza/Projects/Practice1/Practice1/obj/Debug/netcoreapp3.0/Practice1.pdb
